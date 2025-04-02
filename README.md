@@ -2,19 +2,7 @@
 
 # Data Science Portfolio
 
-This repository is a curated collection of my work and solutions to case studies, mini-projects, and a guided capstone that are part of the Springboard Data Science program.
-
-This README contains summaries (objectives, methods, and takeaways) of the following curriculum categories:
-
-- **Case Studies**: Industry case studies that cover a wide range of topics and techniques in data science
-- **Statistical Foundations**: Case studies that explore and apply fundamental statistical techniques, without necessarily building predictive models
-- **Mini Projects**: Projects using industry-standard tools and libraries for data manipulation and analysis
-- **Guided Capstone**: An end-to-end data science project experience
-
-Not included in this repo are my two independent capstones, which have their own repositories. Links below:
-
-- [Automated Chorus Detection](https://github.com/dennisvdang/chorus-detection)
-- [QA Information Retrieval System](https://github.com/dennisvdang/QA-Retrieval-System)
+This repository is a curated collection of my work and solutions to various case studies projects.
 
 For more of my project work or independent capstones, please visit the pinned repositories on my [Github](https://github.com/dennisvdang) or visit my website: [https://www.dennisvdang.com](https://dennisvdang.com).
 
